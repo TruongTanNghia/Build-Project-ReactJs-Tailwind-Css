@@ -31,8 +31,8 @@ const App = () => {
       <Banner/>
       {/* <CoverBanner /> */}
       <AppStore/>
-      <Testimonial />
-      <Footer />
+      <Testimonial/>
+      <Footer/>
     </div>
   );
 };
