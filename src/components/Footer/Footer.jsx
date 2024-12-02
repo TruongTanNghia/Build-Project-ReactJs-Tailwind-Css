@@ -3,7 +3,7 @@ import {
   FaFacebook,
   FaInstagram,
   FaLinkedin,
-  FaLocationArrow,
+  FaLocationArrow, 
   FaMobileAlt,
 } from "react-icons/fa";
 import footerLogo from "../../assets/food-logo.png";
